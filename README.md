@@ -1,1 +1,6 @@
-# oldmarket
+
+npm run build
+
+npm run start
+
+
